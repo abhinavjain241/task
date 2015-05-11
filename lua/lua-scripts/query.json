@@ -1,0 +1,20 @@
+{
+	"operation" : "create",
+	"data" : [
+		{
+			"name" : "Abhinav Jain",
+			"age" : "20",
+			"gender" : "Male"
+		},
+		{
+			"name" : "Hardik",
+			"age" : "18",
+			"gender" : "Male"
+		},
+		{
+			"name" : "Vaishali Yadav",
+			"age" : "25",
+			"gender" : "Female"
+		}
+	]
+}
